@@ -1,4 +1,4 @@
-[![Djordje's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordjeVucinac82&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Djordje's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordjeVucinac82&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
