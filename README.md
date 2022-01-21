@@ -3,7 +3,7 @@
 <!--
 **DjordjeVucinac82/DjordjeVucinac82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Djordje's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordjeVucinac82)](https://github.com/anuraghazra/github-readme-stats)
+[![Djordje's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordjeVucinac82&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
