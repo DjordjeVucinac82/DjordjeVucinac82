@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about Devops n Cloud
 - 📫 How to reach me: djordje.vucinac@gmail.com\
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjordjeVucinac82&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjordjeVucinac82&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DjordjeVucinac82/DjordjeVucinac82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
