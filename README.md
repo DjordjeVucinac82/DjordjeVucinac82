@@ -1,7 +1,7 @@
 [![Djordje's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordjeVucinac82&show_icons=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on WordPress docker-compose
-- 🌱 I’m currently learning AWS Solution Architect Associate (SAA-C02)
+- 🔭 I’m currently working on terraform-EKS
+- 🌱 I’m currently learning AWS Solution Architect Associate (SAA-C03)
 - 👯 I’m looking to collaborate on Kubernetes and AWS
 - 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about Devops n Cloud
