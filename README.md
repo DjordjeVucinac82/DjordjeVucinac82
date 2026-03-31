@@ -8,7 +8,7 @@
 - 📫 How to reach me: djordje.vucinac@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjordjeVucinac82&layout=compact&theme=github_dark&langs_count=8&cache_second
- s=21600)]
+  s=21600)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DjordjeVucinac82/DjordjeVucinac82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
