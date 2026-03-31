@@ -1,15 +1,15 @@
-[![Djordje's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordjeVucinac82&show_icons=true&theme=github_dark&count_private=true)](ht
-  tps://github.com/anuraghazra/github-readme-stats)
+[![Djordje's GitHub stats](https://github-readme-stats.vercel.app/api?username=DjordjeVucinac82&show_icons=true&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+- 🔭 I’m currently working on kubectl, eksctl, helm, eks
 - 🔭 I’m currently working on kubectl, eksctl, helm
 - 🌱 I’m currently learning AWS Solution Architect Associate (SAA-C03)
 - 👯 I’m looking to collaborate on Kubernetes and AWS
 - 🤔 I’m looking for help with Kubernetes
+- 💬 Ask me about Devops n Cloud
 - 💬 Ask me about Devops and Cloud
 - 📫 How to reach me: djordje.vucinac@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjordjeVucinac82&layout=compact&theme=github_dark&langs_count=8&cache_second
-  s=21600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DjordjeVucinac82&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **DjordjeVucinac82/DjordjeVucinac82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
